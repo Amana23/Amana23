@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I am Amana Ershadullah - a new Software Developer.
+I am currently working on a 14 week full stack Java Development Boot-camp with Tech Elevator.
+I am currently learning 
+    - UML Diagram - including Process flow, sequence diagram
+    - HTML, CSS, DHTML
+    - JavaScript using Visual Studio Code
+
+You can Reach me at: amanaershadullah@gmail.com
+Pronounces : She/her
 
 <!--
 **Amana23/Amana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
